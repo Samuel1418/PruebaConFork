@@ -17,6 +17,7 @@ public class PruebaConFOrk {
     public static void main(String[] args) {
         System.out.println("hola");
         System.out.println("Buenas");
+        System.out.println("Un poco mas de codigo");
     }
     
 }
